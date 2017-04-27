@@ -5,9 +5,8 @@
 ## 安装
 ### node.js
 ### typescript
-### typescript
 
-## 初始化 typescript 项目
+## 初始化 typescript 项目,生成配置文件
 >tsc
 
 `tsconfig.json`
