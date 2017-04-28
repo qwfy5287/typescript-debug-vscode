@@ -1,6 +1,6 @@
 # 说明
 
-用 vscode 调试 typescript
+用 vscode debug typescript
 
 ## 安装
 ### node.js
