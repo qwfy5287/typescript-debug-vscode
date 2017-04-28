@@ -1,6 +1,6 @@
 # 说明
 
-用 vscode debug typescript
+使用 vscode debug typescript
 
 ## 安装
 ### node.js
@@ -44,3 +44,5 @@ console.log(msg)
 ## 打断点
 
 ## F5 开始调试
+
+# 源码 [https://github.com/qwfy5287/typescript-debug-vscode](https://github.com/qwfy5287/typescript-debug-vscode)
